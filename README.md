@@ -14,7 +14,6 @@ HTML +
 CSS
 
 
-## Outras seções comuns em perfis do GitHub
 👩‍💻 Estudo atualmente no Senac Largo Treze
 
 🧠 Estou aprendendo HTML + CSS + Javascript
