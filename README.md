@@ -10,7 +10,7 @@ assim contribuindo para o desenvolvimento Web.
 
 
 ## 🛠 Habilidades
-HTML
+HTML +
 CSS
 
 
